@@ -1,9 +1,9 @@
 @import "./banner.css";
+@import "./where-to-start.css";
 
 :root {
     --background: #171717
 }
-
 
 *{
     padding: 0;
@@ -12,5 +12,6 @@
 }
 
 body {
-    background-color: var(--background);    
+    background-color: var(--background);
+    color: white;
 }
